@@ -6,6 +6,9 @@
 .RData
 .RDataTmp
 
+# Environment Variables
+.env
+
 # User-specific files
 .Ruserdata
 
